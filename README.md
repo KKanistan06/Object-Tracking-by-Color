@@ -35,7 +35,7 @@ pip install opencv-python numpy
 Clone the repository to your local machine:
 
 ```bash
-git clone https://github.com/KKanistan06/color-object-tracking.git
+git clone https://github.com/KKanistan06/Object-Tracking-by-Color.git
 ```
 
 ### 2. Calibrate HSV Range
